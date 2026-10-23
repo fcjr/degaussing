@@ -13,7 +13,7 @@
         "concurrently": "^9.0.0",
         "rcade": "^0.0.50",
         "typescript": "^5.8.0",
-        "vite": "^7.2.4"
+        "vite": "^7.3.7"
     },
     "dependencies": {
         "@rcade/plugin-input-classic": "^0.2.1",
